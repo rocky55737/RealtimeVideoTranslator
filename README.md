@@ -11,7 +11,7 @@
 
 ### Ubuntu
 
-You will need following libraries (Ubuntu 16.04/14.04):
+다음과 같은 라이브러리들이 필요합니다(Ubuntu 16.04/14.04):
 
 ```bash
 sudo apt-get install g++ # or clang++ (presumably)
@@ -23,7 +23,7 @@ sudo apt-get install libtiff5-dev
 sudo apt-get install zlib1g-dev
 ```
 
-if you plan to install the training tools, you also need the following libraries:
+Training tool을 이용하고자 한다면, 아래의 라이브러리들도 필요합니다:
 
 ```bash
 sudo apt-get install libicu-dev
@@ -39,9 +39,9 @@ sudo apt-get install libleptonica-dev
 
 ### Install elsewhere / without root
 
-Tesseract can be configured to install anywhere.
+Tesseract 는 아무 곳에나 설치할 수 있습니다.
 
-To install it in $HOME/local:
+$HOME/local 의 위치에 설치하려면:
 
 ```bash
 ./autogen.sh
@@ -50,17 +50,19 @@ make
 make install
 ```
 
-In some system, you might also need to specify the path to the 
-```pkg-config``` 
-before running the 
+몇몇 시스템들에서는
 ```configure```
-script:
+명령을 실행하기 전에, 
+```pkg-config```
+에 대한 경로를 지정해주어야 할 수도 있습니다:
 
 ```bash
 export PKG_CONFIG_PATH=$HOME/local/lib/pkgconfig
 ```
 
 ### Language Data
+
+Lauguage 학습 데이터가 저장된 경로를 지정해주세요:
 
 ```bash
 export TESSDATA_PREFIX=/some/path/to/tessdata
