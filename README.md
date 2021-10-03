@@ -41,8 +41,7 @@ sudo apt-get install libleptonica-dev
 
 ### Install elsewhere / without root
 
-Tesseract 는 아무 곳에나 설치할 수 있습니다.
-
+Tesseract 는 아무 곳에나 설치할 수 있습니다.   
 $HOME/local 의 위치에 설치하려면:
 
 ```bash
