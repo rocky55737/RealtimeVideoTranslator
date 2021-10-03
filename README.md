@@ -1,6 +1,18 @@
-# Open Source Software - Team Project
+# OSS Team Project - Real Time Translator
 
 Original Tesseract-OCR Man page: [Build Tesseract From the source code](https://tesseract-ocr.github.io/tessdoc/Compiling.html, "tesseract-ocr man page")
+
+팀 구성원:   
+노형준 (juunie-roh)   
+박선재 ()   
+박준오 ()   
+홍록기 ()
+
+# 프로젝트 설명
+
+```프로젝트 설명```
+
+## Tesseract-OCR   
 
 ## Linux
 
@@ -70,5 +82,54 @@ export TESSDATA_PREFIX=/some/path/to/tessdata
 ```
 
 ## macOS
+
+### macOS with Homebrew
+
+```bash
+# 필수 패키지들.
+brew install automake autoconf libtool
+brew install pkgconfig
+brew install icu4c
+brew install leptonica
+# Training Tool 에 필요한 패키지들.
+brew install pango
+# 추가 기능들을 위한 패키지.
+brew install libarchive
+# g++ 를 이용해 빌드할 때 필요한 패키지.
+brew install gcc
+```
+
+### macOS with MacPorts
+
+```bash
+# 필수 패키지들.
+sudo port install autoconf
+sudo port install automake
+sudo port install libtool
+sudo port install pkgconfig
+sudo port install leptonica
+# Training Tool 에 필요한 패키지들.
+sudo port install cario pango
+sudo port install icu +devel 
+```
+
+### Compilation
+
+```bash
+git clone https://github.com/tesseract-ocr/tesseract.git
+cd tesseract
+./autogen.sh
+./configure
+make # 또는 make training (training tool)
+sudo make install # 또는 sudo make install training-install
+```
+
+### macOS: building for arm-apple-darwin64
+
+애플 실리콘을 사용하는 경우, 다음과 같은 절차가 필요할 수도 있습니다:
+
+```bash
+./configure CXX="g++ --target=arm-apple-darwin64"
+```
 
 
