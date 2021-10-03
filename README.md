@@ -37,4 +37,35 @@ sudo apt-get install libcairo2-dev
 sudo apt-get install libleptonica-dev
 ```
 
+### Install elsewhere / without root
+
+Tesseract can be configured to install anywhere.
+
+To install it in &HOME/local:
+
+```bash
+./autogen.sh
+./configure --prefix=$HOME/local/
+make
+make install
+```
+
+In some system, you might also need to specify the path to the 
+```pkg-config``` 
+before running the 
+```configure```
+script:
+
+```bash
+export PKG_CONFIG_PATH=$HOME/local/lib/pkgconfig
+```
+
+### Language Data
+
+```bash
+export TESSDATA_PREFIX=/some/path/to/tessdata
+```
+
+## macOS
+
 
