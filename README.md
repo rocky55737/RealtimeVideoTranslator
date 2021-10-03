@@ -41,7 +41,7 @@ sudo apt-get install libleptonica-dev
 
 Tesseract can be configured to install anywhere.
 
-To install it in &HOME/local:
+To install it in $HOME/local:
 
 ```bash
 ./autogen.sh
