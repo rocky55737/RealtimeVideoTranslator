@@ -14,8 +14,8 @@ Original Tesseract-OCR Man page: [Build Tesseract From the source code](https://
 
 ## Tesseract-OCR   
 ### Installation
-* [Linux]
-* [macOS]
+* [Linux](README.md#linux)
+* [macOS](README.md#macos)
 
 ## Linux
 
