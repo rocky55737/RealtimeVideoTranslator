@@ -1,5 +1,7 @@
 # Open Source Software - Team Project
 
+Original Tesseract-OCR Man page: [Build Tesseract From the source code](https://tesseract-ocr.github.io/tessdoc/Compiling.html)
+
 ## Linux
 
 ### Dependencies
