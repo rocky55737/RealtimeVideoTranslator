@@ -1,4 +1,4 @@
-# OSS Team Project - Real Time Translator
+# OSS Team Project - Real Time Video Translator
 
 Original Tesseract-OCR Man page: [Build Tesseract From the source code](https://tesseract-ocr.github.io/tessdoc/Compiling.html, "tesseract-ocr man page")
 
