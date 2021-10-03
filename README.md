@@ -13,6 +13,9 @@ Original Tesseract-OCR Man page: [Build Tesseract From the source code](https://
 ```프로젝트 설명```
 
 ## Tesseract-OCR   
+### Installation
+* [Linux]
+* [macOS]
 
 ## Linux
 
