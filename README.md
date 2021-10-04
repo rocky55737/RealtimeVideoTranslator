@@ -1,6 +1,6 @@
 # OSS Team Project - Real Time Video Translator
 
-Original Tesseract-OCR Man page: [Build Tesseract From the source code](https://tesseract-ocr.github.io/tessdoc/Compiling.html, "tesseract-ocr man page")
+Original Tesseract-OCR install documentation: [Build Tesseract From the source code](https://tesseract-ocr.github.io/tessdoc/Compiling.html, "tesseract-ocr man page")
 
 팀 구성원:   
 노형준 (juunie-roh)   
