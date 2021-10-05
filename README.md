@@ -102,6 +102,10 @@ brew install libarchive
 brew install gcc
 ```
 
+Homebrew 를 이용할 경우, 패키지들의 설치 경로가 바뀔 수 있습니다.   
+```pkgconfig``` 
+디렉토리에 대한 환경 변수 지정 시에 주의해주세요.
+
 ### macOS with MacPorts
 
 ```bash
