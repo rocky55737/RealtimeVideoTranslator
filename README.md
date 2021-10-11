@@ -29,11 +29,11 @@ Intellij IDEA 에서, Tesseract 에서 제공하는 JAVA Wrapper 인 [tess4j](ht
 
 For more informations: [Tesseract User Manual](https://tesseract-ocr.github.io/tessdoc/Home.html, "Install tesseract via pre-built binary files")   
 
-  미리 빌드된 binary 파일로 설치:   
-  1. [Windows - Tesseract at UB Mannheim](https://github.com/UB-Mannheim/tesseract/wiki) 에서 32bit/64bit 선택하여 설치파일을 다운로드, 설치를 진행합니다.   
-  2. [tessdata-best](https://github.com/tesseract-ocr/tessdata_best) 에서 미리 학습된 데이터들을 ```.zip``` 으로 받아 압축을 풀어줍니다.   
-  3. 압축을 해제하여 나온 폴더의 파일들을 tesseract-ocr 내의 tessdata 폴더로 옮겨줍니다.   
-    (Default path is, C:₩Program Files₩Tesseract-OCR)
-  4. 이 repository 의 TesseractExample 폴더를 Intellij IDEA 로 Open 합니다.
-  5. Run 했을 때 command line 으로 사진이 변환된 내용이 출력되면 성공.
+> 미리 빌드된 binary 파일로 설치:   
+> 1. [Windows - Tesseract at UB Mannheim](https://github.com/UB-Mannheim/tesseract/wiki) 에서 32bit/64bit 선택하여 설치파일을 다운로드, 설치를 진행합니다.   
+> 2. [tessdata-best](https://github.com/tesseract-ocr/tessdata_best) 에서 미리 학습된 데이터들을 ```.zip``` 으로 받아 압축을 풀어줍니다.   
+> 3. 압축을 해제하여 나온 폴더의 파일들을 tesseract-ocr 내의 tessdata 폴더로 옮겨줍니다.   
+>   (Default path is, C:₩Program Files₩Tesseract-OCR)
+> 4. 이 repository 의 TesseractExample 폴더를 Intellij IDEA 로 Open 합니다.
+> 5. Run 했을 때 command line 으로 사진이 변환된 내용이 출력되면 성공.
 
