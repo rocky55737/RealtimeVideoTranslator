@@ -22,7 +22,8 @@ Intellij IDEA 에서, Tesseract 에서 제공하는 JAVA Wrapper 인 [tess4j](ht
 ## Tesseract-OCR
 ### Installation
 
-* [Windows](README.md#windows) - PRIMARY
+* [Windows](README.md#windows) - PRIMARY, Setting up for Devs: 개발 환경 구축하기
+* 
 
 ## Windows
 
@@ -31,6 +32,8 @@ For more informations: [Tesseract User Manual](https://tesseract-ocr.github.io/t
 미리 빌드된 binary 파일로 설치합니다.
 1. [Windows - Tesseract at UB Mannheim](https://github.com/UB-Mannheim/tesseract/wiki) 에서 32bit/64bit 선택하여 설치파일을 다운로드, 설치를 진행합니다.   
 2. [tessdata-best](https://github.com/tesseract-ocr/tessdata_best) 에서 미리 학습된 데이터들을 ```.zip``` 으로 받아 압축을 풀어줍니다.   
-3. 압축을 해제하여 나온 폴더의 파일들을 tesseract-ocr 내의 tessdata 폴더로 옮겨줍니다. (Default path is, C:₩Program Files₩Tesseract-OCR)
+3. 압축을 해제하여 나온 폴더의 파일들을 tesseract-ocr 내의 tessdata 폴더로 옮겨줍니다.   
+  (Default path is, C:₩Program Files₩Tesseract-OCR)
 4. Intellij IDEA 를 실행하여 새 프로젝트를 생성합니다.
+5. 
 
