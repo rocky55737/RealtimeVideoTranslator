@@ -34,7 +34,7 @@ For more informations: [Tesseract User Manual](https://tesseract-ocr.github.io/t
 > 2. [tessdata-best](https://github.com/tesseract-ocr/tessdata_best) 의 파일들을 ```zip``` 으로 다운받거나 본 repository 에 포함된 tessdata.zip 을 사용합니다.
 >   > 이 repository 에 포함된 tessdata 는 5 가지(chi/eng/jap/kor/spa) 입니다.
 > 3. 압축을 해제하여 나온 폴더의 파일들을 tesseract-ocr 내의 tessdata 폴더로 옮겨줍니다.   
->   (Default path is, C:₩Program Files₩Tesseract-OCR)
+>   (기본 설치 경로 ```C:₩Program Files₩Tesseract-OCR```)
 > 4. 이 repository 의 TesseractExample 폴더를 Intellij IDEA 로 Open 합니다.
 > 5. Run 했을 때 command line 으로 사진이 변환된 내용이 출력되면 성공.
 
