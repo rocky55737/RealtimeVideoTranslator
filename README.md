@@ -8,7 +8,7 @@
 
 # 프로젝트 설명
 
-```프로젝트 설명```
+`프로젝트 설명`
 
 # License
 
@@ -32,10 +32,10 @@ For more informations: [Tesseract User Manual](https://tesseract-ocr.github.io/t
 
 > 미리 빌드된 binary 파일로 설치:   
 > 1. [Windows - Tesseract at UB Mannheim](https://github.com/UB-Mannheim/tesseract/wiki) 에서 32bit/64bit 선택하여 설치파일을 다운로드, 설치를 진행합니다.   
-> 2. [tessdata-best](https://github.com/tesseract-ocr/tessdata_best) 의 파일들을 ```zip``` 으로 다운받거나 본 repository 에 포함된 tessdata.zip 을 사용합니다.
->   > 이 repository 에 포함된 tessdata 는 5 가지(chi/eng/jap/kor/spa) 입니다.
+> 2. [tessdata-best](https://github.com/tesseract-ocr/tessdata_best) 의 파일들을 `zip` 으로 다운받거나 본 repository 에 포함된 tessdata.zip 을 사용합니다.
+> 이 repository 에 포함된 tessdata 는 5 가지(chi/eng/jap/kor/spa) 입니다.
 > 3. 압축을 해제하여 나온 폴더의 파일들을 tesseract-ocr 내의 tessdata 폴더로 옮겨줍니다.   
->   (기본 설치 경로 ```C:₩Program Files₩Tesseract-OCR```)
+>   (기본 설치 경로 `C:₩Program Files₩Tesseract-OCR`)
 > 4. 이 repository 의 TesseractExample 폴더를 Intellij IDEA 로 Open 합니다.
 > 5. Run 했을 때 command line 으로 사진이 변환된 내용이 출력되면 성공.
 
@@ -51,8 +51,10 @@ For more informations: [Tesseract User Manual](https://tesseract-ocr.github.io/t
 > 4. 발급받은 Client ID와 Client Secret을 복사 합니다. (Client Secret을 복사할때 하단에 보기버튼을 누른 후 복사해야 합니다.)
 > 5. 이 repository 의 PapagoExample 폴더를 Intellij IDEA 로 Open 합니다.
 > 6. 21~22번 줄의
-> ```
->   String clientId = "";//애플리케이션 클라이언트 아이디값";
->   String clientSecret = "";//애플리케이션 클라이언트 시크릿값";
-> ```
+> 
+>   `
+>     String clientId = "";//애플리케이션 클라이언트 아이디값";
+>     String clientSecret = "";//애플리케이션 클라이언트 시크릿값";
+>   `
+> 
 >    ""안에 복사한 값을 입력한 후 Run 했을 때 번역할 문장을 입력받고, 번역된 문장이 나온다면 성공. (기본은 kor->eng)
