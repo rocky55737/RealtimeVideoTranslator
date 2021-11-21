@@ -2,7 +2,7 @@
 
 팀 구성원:   
 노형준 (juunie-roh)   
-박선재 ()   
+박선재 (StandingAsh)   
 박준오 (juno801)   
 홍록기 (rocky55737)
 
