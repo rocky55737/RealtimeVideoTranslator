@@ -8,6 +8,7 @@ public class Main {
         // 설정 언어는 default 값이 eng, setImgLang 으로 변경 가능
         tesseract.setImgLang("eng");
         String OCRedText = tesseract.imgToString("K-009.png");
+
         System.out.println(OCRedText);
 
         System.out.println("myPapago Result: ");

@@ -12,7 +12,7 @@ public class Main {
         File imageFile = new File(cwdPath + "\\src\\img\\eurotext.png"); // Path to the target image file.
         ITesseract instance = new Tesseract(); // JNA Interface Mapping.
         instance.setDatapath("C:\\Program Files\\Tesseract-OCR\\tessdata"); // Path to the tesseract data files.
-
+        instance.setLanguage("eng");
         try {
             String result = instance.doOCR(imageFile);
             System.out.println(result);
