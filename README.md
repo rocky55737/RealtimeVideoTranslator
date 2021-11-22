@@ -52,9 +52,9 @@ For more informations: [Tesseract User Manual](https://tesseract-ocr.github.io/t
 > 5. 이 repository 의 PapagoExample 폴더를 Intellij IDEA 로 Open 합니다.
 > 6. 21~22번 줄의
 > 
->   ```
+>   `
 >     String clientId = "";//애플리케이션 클라이언트 아이디값";
 >     String clientSecret = "";//애플리케이션 클라이언트 시크릿값";
->   ```
+>   `
 > 
 >    ""안에 복사한 값을 입력한 후 Run 했을 때 번역할 문장을 입력받고, 번역된 문장이 나온다면 성공. (기본은 kor->eng)
