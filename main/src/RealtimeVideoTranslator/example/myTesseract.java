@@ -8,14 +8,17 @@ public class myTesseract {
 
     public void setImgLang(String imgLang) { srcLang = imgLang; }
     public String imgToString(String fileName) {
-        File imageFile = new File(fileName); // Path to the target image file.
+        File cwd = new File(".");
+        String cwdPath = cwd.getAbsolutePath();
+        File imageFile = new File(cwdPath + "\\src\\img\\" + fileName); // Path to the target image file.
         ITesseract instance = new Tesseract(); // JNA Interface Mapping.
-        instance.setDatapath("/home/junsekim/tessdata"); // Path to the tesseract data files.
+        instance.setDatapath("C:\\Program Files\\Tesseract-OCR\\tessdata"); // Path to the tesseract data files.
         instance.setLanguage(srcLang);
+
         try {
             return (String)instance.doOCR(imageFile);
         } catch (TesseractException e) {
-            e.printStackTrace();
+            System.err.println(e.getMessage());
         }
 
         return null;
