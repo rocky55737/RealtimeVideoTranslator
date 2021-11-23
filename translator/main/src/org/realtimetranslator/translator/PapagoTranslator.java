@@ -9,6 +9,7 @@ import java.net.HttpURLConnection;
 import java.net.MalformedURLException;
 import java.net.URL;
 import java.net.URLEncoder;
+import java.util.Collections;
 import java.util.HashMap;
 import java.util.Map;
 
@@ -52,7 +53,7 @@ public class PapagoTranslator implements Translator {
             e.printStackTrace();
         }
         JSONObject objMessage = (JSONObject) jsonObject.get("message");
-        JSONObject objResult = (JSONObject) objMessage.get("result");
+        JSONObject objResult = (objMessage==null)? new JSONObject((Collections.singletonMap("translatedText", "결과 없음"))) : (JSONObject) objMessage.get("result");
         String translatedText = (String) objResult.get("translatedText");
 
         return translatedText;

@@ -48,7 +48,7 @@ public class DefaultScreenSettingUI implements ScreenSettingUI {
     }
 
     static class CapturePane extends JPanel {
-        private CaptureMouseEventListener listener;
+        private final CaptureMouseEventListener listener;
 
         public CapturePane(ScreenCaptor captor) {
             setOpaque(false);
