@@ -1,0 +1,32 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="RealtimeVideoTranslator:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/RealtimeVideoTranslator_jar</output-path>
+    <root id="archive" name="RealtimeVideoTranslator.jar">
+      <element id="module-output" name="RealtimeVideoTranslator" />
+      <element id="module-test-output" name="RealtimeVideoTranslator" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/translator/lib/jna-5.8.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/translator/lib/itext-2.1.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/translator/lib/log4j-1.2.17.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/translator/lib/tess4j-4.5.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/translator/lib/ghost4j-1.0.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/translator/lib/lept4j-1.13.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/translator/lib/pdfbox-2.0.24.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/translator/lib/fontbox-2.0.24.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/translator/lib/slf4j-api-1.7.31.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/translator/lib/commons-io-2.11.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/translator/lib/json-simple-1.1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/translator/lib/commons-logging-1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/translator/lib/jbig2-imageio-3.0.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/translator/lib/jna-platform-5.10.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/translator/lib/pdfbox-tools-2.0.24.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/translator/lib/jai-imageio-core-1.4.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/translator/lib/jboss-logging-3.1.4.GA.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/translator/lib/jboss-vfs-3.2.15.Final.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/translator/lib/pdfbox-debugger-2.0.24.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/translator/lib/commons-beanutils-1.9.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/translator/lib/xmlgraphics-commons-1.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/translator/lib/commons-collections-3.2.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/translator/lib/junit-platform-console-standalone-1.8.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

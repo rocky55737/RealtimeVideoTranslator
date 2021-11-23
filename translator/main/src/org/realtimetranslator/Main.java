@@ -8,6 +8,8 @@ import org.realtimetranslator.setting.DefaultScreenSettingUI;
 import org.realtimetranslator.translator.PapagoTranslator;
 import org.realtimetranslator.translator.CachingTranslator;
 
+import java.lang.reflect.Field;
+import java.nio.charset.Charset;
 import java.util.Arrays;
 import java.util.List;
 import java.util.concurrent.Executors;
@@ -15,6 +17,15 @@ import java.util.concurrent.Executors;
 public class Main {
     public static void main(String[] args)  {
         long screenShotDelay = 1000;
+        // 시스템 인코딩 기반을 UTF-8 로 설정하는 부분.
+        System.setProperty("file.encoding","UTF-8");
+        try {
+            Field charset = Charset.class.getDeclaredField("defaultCharset");
+            charset.setAccessible(true);
+            charset.set(null,null);
+        } catch(Exception e) {
+        }
+
         // 파파고
         Translator translator = new CachingTranslator(new PapagoTranslator());
         // 테서렉트

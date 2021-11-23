@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>C:\Projects\OSS_teamproj\RealtimeVideoTranslator\RealtimeVideoTranslator.jar</jar>
+  <outfile>C:\Projects\OSS_teamproj\RealtimeVideoTranslator\RTVT.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl>http://java.com/download</downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest></manifest>
+  <icon></icon>
+  <jre>
+    <path></path>
+    <bundledJre64Bit>false</bundledJre64Bit>
+    <bundledJreAsFallback>false</bundledJreAsFallback>
+    <minVersion>1.8</minVersion>
+    <maxVersion></maxVersion>
+    <jdkPreference>preferJre</jdkPreference>
+    <runtimeBits>64/32</runtimeBits>
+  </jre>
+  <versionInfo>
+    <fileVersion>1.0.0.0</fileVersion>
+    <txtFileVersion>Ver 1.0.0.0</txtFileVersion>
+    <fileDescription>Realtime Video Translator</fileDescription>
+    <copyright>KWU Open Source Software Team 15</copyright>
+    <productVersion>1.0.0.0</productVersion>
+    <txtProductVersion>1.0.0.0</txtProductVersion>
+    <productName>Real-time Video Translator</productName>
+    <companyName></companyName>
+    <internalName>RealtimeVideoTranslator</internalName>
+    <originalFilename>RTVT.exe</originalFilename>
+    <trademarks></trademarks>
+    <language>KOREAN</language>
+  </versionInfo>
+</launch4jConfig>
