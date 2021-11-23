@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/PapagoExample/PapagoExample.iml" filepath="$PROJECT_DIR$/PapagoExample/PapagoExample.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/RealtimeVideoTranslator.iml" filepath="$PROJECT_DIR$/.idea/RealtimeVideoTranslator.iml" />
-      <module fileurl="file://$PROJECT_DIR$/TesseractExample/TesseractExample.iml" filepath="$PROJECT_DIR$/TesseractExample/TesseractExample.iml" />
       <module fileurl="file://$PROJECT_DIR$/main/main.iml" filepath="$PROJECT_DIR$/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/translator/translator.iml" filepath="$PROJECT_DIR$/translator/translator.iml" />
     </modules>
   </component>
 </project>

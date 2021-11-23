@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="35f255bf-e907-4f99-b36f-d1de63b47955" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/RealtimeVideoTranslator.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/RealtimeVideoTranslator.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/K-009.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PapagoExample/PapagoExample.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PapagoExample/lib/json-simple-1.1.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PapagoExample/out/production/PapagoExample/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PapagoExample/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TesseractExample/TesseractExample.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TesseractExample/lib/commons-beanutils-1.9.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TesseractExample/lib/commons-collections-3.2.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TesseractExample/lib/commons-io-2.11.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TesseractExample/lib/commons-logging-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TesseractExample/lib/fontbox-2.0.24.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TesseractExample/lib/ghost4j-1.0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TesseractExample/lib/itext-2.1.7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TesseractExample/lib/jai-imageio-core-1.4.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TesseractExample/lib/jbig2-imageio-3.0.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TesseractExample/lib/jboss-logging-3.1.4.GA.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TesseractExample/lib/jboss-vfs-3.2.15.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TesseractExample/lib/jna-5.8.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TesseractExample/lib/lept4j-1.13.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TesseractExample/lib/log4j-1.2.17.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TesseractExample/lib/pdfbox-2.0.24.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TesseractExample/lib/pdfbox-debugger-2.0.24.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TesseractExample/lib/pdfbox-tools-2.0.24.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TesseractExample/lib/slf4j-api-1.7.31.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TesseractExample/lib/tess4j-4.5.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TesseractExample/lib/xmlgraphics-commons-1.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TesseractExample/out/production/TesseractExample/img/eurotext.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TesseractExample/out/production/TesseractExample/tess4j/example/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TesseractExample/src/img/eurotext.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TesseractExample/src/tess4j/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/lib/commons-beanutils-1.9.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/lib/commons-collections-3.2.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/lib/commons-io-2.11.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/lib/commons-logging-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/lib/fontbox-2.0.24.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/lib/ghost4j-1.0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/lib/itext-2.1.7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/lib/jai-imageio-core-1.4.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/lib/jbig2-imageio-3.0.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/lib/jboss-logging-3.1.4.GA.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/lib/jboss-vfs-3.2.15.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/lib/jna-5.8.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/lib/jna-platform-5.10.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/lib/json-simple-1.1.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/lib/lept4j-1.13.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/lib/log4j-1.2.17.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/lib/pdfbox-2.0.24.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/lib/pdfbox-debugger-2.0.24.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/lib/pdfbox-tools-2.0.24.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/lib/slf4j-api-1.7.31.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/lib/tess4j-4.5.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/lib/xmlgraphics-commons-1.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/out/production/main/RealtimeVideoTranslator/example/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/out/production/main/RealtimeVideoTranslator/example/myPapago.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/out/production/main/RealtimeVideoTranslator/example/myTesseract.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/out/production/main/img/K-009.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/out/production/main/img/eurotext.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/src/RealtimeVideoTranslator/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/src/RealtimeVideoTranslator/example/myPapago.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/src/RealtimeVideoTranslator/example/myTesseract.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/src/img/eurotext.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/src/org/realtimetranslator/CaptureListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/src/org/realtimetranslator/ImageTextReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/src/org/realtimetranslator/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/src/org/realtimetranslator/ScreenCaptor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/src/org/realtimetranslator/ScreenSettingUI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/src/org/realtimetranslator/Translator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/src/org/realtimetranslator/captor/DefaultScreenCaptor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/src/org/realtimetranslator/common/ScreenUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/src/org/realtimetranslator/listener/AbstractTranslatorListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/src/org/realtimetranslator/listener/LoggingListenerMock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/src/org/realtimetranslator/listener/LoggingTranslatorListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/src/org/realtimetranslator/reader/TesseractReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/src/org/realtimetranslator/setting/DefaultScreenSettingUI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/src/org/realtimetranslator/translator/PapagoTranslator.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="21FpOWRGDFaKMbWTOskOrWmhamf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/translator/test/resources" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/translator/test/resources" />
+      <recent name="$PROJECT_DIR$/translator/lib" />
+      <recent name="$PROJECT_DIR$/translator" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/translator" />
+      <recent name="$PROJECT_DIR$/translator/test/resources" />
+      <recent name="$PROJECT_DIR$/main" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/main/main" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.realtimetranslator.Main" />
+      <module name="translator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.realtimetranslator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PapagoTranslatorTest.translateText" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="translator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.realtimetranslator.translator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.realtimetranslator.translator" />
+      <option name="MAIN_CLASS_NAME" value="org.realtimetranslator.translator.PapagoTranslatorTest" />
+      <option name="METHOD_NAME" value="translateText" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesseractReaderTest.readImageToText" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="translator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.realtimetranslator.reader.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.realtimetranslator.reader" />
+      <option name="MAIN_CLASS_NAME" value="org.realtimetranslator.reader.TesseractReaderTest" />
+      <option name="METHOD_NAME" value="readImageToText" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Whole project" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="wholeProject" />
+      </option>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.Whole project" />
+        <item itemvalue="JUnit.PapagoTranslatorTest.translateText" />
+        <item itemvalue="JUnit.TesseractReaderTest.readImageToText" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="35f255bf-e907-4f99-b36f-d1de63b47955" name="Default Changelist" comment="" />
+      <created>1637546657817</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1637546657817</updated>
+      <workItem from="1637546660408" duration="88000" />
+      <workItem from="1637546768517" duration="1878000" />
+      <workItem from="1637548670893" duration="14891000" />
+      <workItem from="1637672399274" duration="740000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
