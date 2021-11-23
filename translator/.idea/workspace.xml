@@ -2,126 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e4d9cee0-9d2d-441e-982d-deb5c13813d6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/artifacts/RealtimeVideoTranslator_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RTVT.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/src/org/realtimetranslator/displayer/DisplayerGUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/src/org/realtimetranslator/listener/GUITranslatorLister.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/src/org/realtimetranslator/translator/CachingTranslator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/tessdata/chi_sim.traineddata" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/tessdata/chi_sim_vert.traineddata" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/tessdata/chi_tra.traineddata" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/tessdata/chi_tra_vert.traineddata" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/tessdata/eng.traineddata" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/tessdata/eng.user-patterns" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/tessdata/eng.user-words" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/tessdata/jpn.traineddata" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/tessdata/jpn_vert.traineddata" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/tessdata/kor.traineddata" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/tessdata/spa.traineddata" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/tessdata/spa_old.traineddata" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/hs_err_pid3213251.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/tessdata/chi_sim.traineddata" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/tessdata/chi_sim_vert.traineddata" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/tessdata/chi_tra.traineddata" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/tessdata/chi_tra_vert.traineddata" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/tessdata/eng.traineddata" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/tessdata/eng.user-patterns" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/tessdata/eng.user-words" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/tessdata/jpn.traineddata" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/tessdata/jpn_vert.traineddata" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/tessdata/kor.traineddata" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/tessdata/spa.traineddata" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/tessdata/spa_old.traineddata" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/RealtimeVideoTranslator.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/libraries/commons_beanutils_1_9_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/libraries/xmlgraphics_commons_1_4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../K-009.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PapagoExample/PapagoExample.iml" beforeDir="false" afterPath="$PROJECT_DIR$/test/test.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PapagoExample/lib/json-simple-1.1.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PapagoExample/out/production/PapagoExample/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PapagoExample/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TesseractExample/TesseractExample.iml" beforeDir="false" afterPath="$PROJECT_DIR$/main/main.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TesseractExample/lib/commons-beanutils-1.9.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TesseractExample/lib/commons-collections-3.2.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TesseractExample/lib/commons-io-2.11.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TesseractExample/lib/commons-logging-1.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TesseractExample/lib/fontbox-2.0.24.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TesseractExample/lib/ghost4j-1.0.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TesseractExample/lib/itext-2.1.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TesseractExample/lib/jai-imageio-core-1.4.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TesseractExample/lib/jbig2-imageio-3.0.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TesseractExample/lib/jboss-logging-3.1.4.GA.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TesseractExample/lib/jboss-vfs-3.2.15.Final.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TesseractExample/lib/jna-5.8.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TesseractExample/lib/lept4j-1.13.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TesseractExample/lib/log4j-1.2.17.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TesseractExample/lib/pdfbox-2.0.24.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TesseractExample/lib/pdfbox-debugger-2.0.24.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TesseractExample/lib/pdfbox-tools-2.0.24.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TesseractExample/lib/slf4j-api-1.7.31.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TesseractExample/lib/tess4j-4.5.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TesseractExample/lib/xmlgraphics-commons-1.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TesseractExample/out/production/TesseractExample/img/eurotext.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TesseractExample/out/production/TesseractExample/tess4j/example/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TesseractExample/src/img/eurotext.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TesseractExample/src/tess4j/example/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../main/lib/commons-beanutils-1.9.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../main/lib/commons-collections-3.2.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../main/lib/commons-io-2.11.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../main/lib/commons-logging-1.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../main/lib/fontbox-2.0.24.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../main/lib/ghost4j-1.0.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../main/lib/itext-2.1.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../main/lib/jai-imageio-core-1.4.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../main/lib/jbig2-imageio-3.0.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../main/lib/jboss-logging-3.1.4.GA.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../main/lib/jboss-vfs-3.2.15.Final.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../main/lib/jna-5.8.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../main/lib/jna-platform-5.10.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../main/lib/json-simple-1.1.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../main/lib/lept4j-1.13.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../main/lib/log4j-1.2.17.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../main/lib/pdfbox-2.0.24.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../main/lib/pdfbox-debugger-2.0.24.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../main/lib/pdfbox-tools-2.0.24.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../main/lib/slf4j-api-1.7.31.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../main/lib/tess4j-4.5.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../main/lib/xmlgraphics-commons-1.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../main/main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../main/out/production/main/RealtimeVideoTranslator/example/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../main/out/production/main/RealtimeVideoTranslator/example/myPapago.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../main/out/production/main/RealtimeVideoTranslator/example/myTesseract.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../main/out/production/main/img/K-009.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../main/out/production/main/img/eurotext.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../main/src/RealtimeVideoTranslator/example/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../main/src/RealtimeVideoTranslator/example/myPapago.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../main/src/RealtimeVideoTranslator/example/myTesseract.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../main/src/img/eurotext.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../main/src/org/realtimetranslator/CaptureListener.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../main/src/org/realtimetranslator/ImageTextReader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../main/src/org/realtimetranslator/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../main/src/org/realtimetranslator/ScreenCaptor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../main/src/org/realtimetranslator/ScreenSettingUI.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../main/src/org/realtimetranslator/Translator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../main/src/org/realtimetranslator/captor/DefaultScreenCaptor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../main/src/org/realtimetranslator/common/ScreenUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../main/src/org/realtimetranslator/listener/AbstractTranslatorListener.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../main/src/org/realtimetranslator/listener/LoggingListenerMock.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../main/src/org/realtimetranslator/listener/LoggingTranslatorListener.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../main/src/org/realtimetranslator/reader/TesseractReader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../main/src/org/realtimetranslator/setting/DefaultScreenSettingUI.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../main/src/org/realtimetranslator/translator/PapagoTranslator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/src/org/realtimetranslator/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/main/src/org/realtimetranslator/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/src/org/realtimetranslator/setting/DefaultScreenSettingUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/main/src/org/realtimetranslator/setting/DefaultScreenSettingUI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/src/org/realtimetranslator/translator/PapagoTranslator.java" beforeDir="false" afterPath="$PROJECT_DIR$/main/src/org/realtimetranslator/translator/PapagoTranslator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/translator.iml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/main_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tessdata/chi_sim.traineddata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tessdata/chi_sim_vert.traineddata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tessdata/chi_tra.traineddata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tessdata/chi_tra_vert.traineddata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tessdata/eng.traineddata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tessdata/eng.user-patterns" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tessdata/eng.user-words" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tessdata/jpn.traineddata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tessdata/jpn_vert.traineddata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tessdata/kor.traineddata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tessdata/spa.traineddata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tessdata/spa_old.traineddata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tessdata/chi_sim.traineddata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tessdata/chi_sim_vert.traineddata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tessdata/chi_tra.traineddata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tessdata/chi_tra_vert.traineddata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tessdata/eng.traineddata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tessdata/eng.user-patterns" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tessdata/eng.user-words" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tessdata/jpn.traineddata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tessdata/jpn_vert.traineddata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tessdata/kor.traineddata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tessdata/spa.traineddata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tessdata/spa_old.traineddata" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -140,12 +47,13 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/test" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Libraries" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
@@ -154,16 +62,11 @@
       <recent name="$PROJECT_DIR$/main" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.TesseractReaderTest.readImageAndCompare">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.realtimetranslator.Main" />
       <module name="main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.realtimetranslator.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -181,12 +84,6 @@
     </configuration>
     <configuration name="TesseractReaderTest.readImageAndCompare" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.realtimetranslator.reader.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <option name="PACKAGE_NAME" value="org.realtimetranslator.reader" />
       <option name="MAIN_CLASS_NAME" value="org.realtimetranslator.reader.TesseractReaderTest" />
       <option name="METHOD_NAME" value="readImageAndCompare" />
@@ -195,10 +92,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="JUnit.TesseractReaderTest.readImageAndCompare" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.TesseractReaderTest.readImageAndCompare" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.TesseractReaderTest.readImageAndCompare" />
       </list>
     </recent_temporary>
   </component>
@@ -210,7 +111,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1637675544458</updated>
-      <workItem from="1637675546282" duration="355000" />
+      <workItem from="1637675546282" duration="996000" />
     </task>
     <servers />
   </component>
