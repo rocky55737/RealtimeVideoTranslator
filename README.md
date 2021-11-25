@@ -6,9 +6,9 @@
 박준오 (juno801)   
 홍록기 (rocky55737)
 
-# 프로젝트 설명
+## 프로젝트 설명
 
-`프로젝트 설명`
+이 프로젝트는 사용자가 선택한 영역을 Tesseract-OCR 로 모니터링하여 인식한 문자를 GUI 로 출력합니다.   
 
 # License
 
@@ -18,14 +18,14 @@
 
 * Real Time Video Translator는 Intellij IDEA 에서, Tesseract 에서 제공하는 JAVA Wrapper 인 [tess4j](https://github.com/nguyenq/tess4j, "tess4j")를 사용합니다.   
 [Microsoft Visual C++ 2019 Redestributable](https://visualstudio.microsoft.com/ko/downloads/) 이 설치되어 있는지 확인해주세요.
-* 이 프로젝트는 java 1.8 | Lanuage level 8 을 사용합니다.
+* 이 프로젝트는 JDK 1.8 | Lanuage level 8 을 사용합니다.
 * Real Time Video Translator는 Intellij IDEA 에서, 파파고에서 제공하는 Papago 번역 API를 사용합니다. Papago 번역 API 사용에 앞서 클라이언트 아이디와 클라이언트 시크릿을 발급받아야 합니다.
 
 ## Tesseract-OCR
 ### Installation
 #### For Users
 * [Windows - Tesseract at UB Mannheim](https://github.com/UB-Mannheim/tesseract/wiki) 에서 32bit/64bit 선택하여 설치해주세요.
-* [Java](https://java.com/) .jar 실행 파일을 사용하므로 Java 가 필요합니다.
+* [Java](https://java.com/) .jar 실행 파일을 사용하므로 Java 가 필요합니다. (javac ver 1.8.x)
 * 위의 두 단계가 완료되면 이 repository 의 RTVT.exe 를 실행해주세요!
 #### For Devs
 * [Windows](README.md#windows) - Tesseract-OCR 설치 및 tessdata 설정
